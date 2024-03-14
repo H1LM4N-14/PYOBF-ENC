@@ -24,8 +24,8 @@ PEMAKAIAN
 ```python
 termux-change-repo
 pkg install python git -y
-git clone https://github.com/H1LM4N-14/PYOBF_ENC
-cd PYOBF_ENC
+git clone https://github.com/H1LM4N-14/PYOBF-ENC
+cd PYOBF-ENC
 git pull
 python pyobf_enc.py
 ```
