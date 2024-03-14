@@ -15,7 +15,10 @@ Karena Telah Menjadikan Saya Sebagai Pemegang Script Ini
 # ✭ Python Enc
 ### Made With ❤️ 
 ```
-ADA BUG?LAPOR ADMIN
+PEMAKAIAN
+- python obf_enc.py contohsc.py '+'
+- contohsc.py sc yang mau lu encrypt
+- '+' Adalah String Bisa Kalian Ubah Bebas
 ```
 ### ⇨  Install Script Di Termux
 ```python
